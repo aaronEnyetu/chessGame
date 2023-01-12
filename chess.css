@@ -3,7 +3,7 @@
 	padding: 0;
 }
 body{
-	background: #ddd;
+	background: rgb(8, 71, 71);
 }
 #board{
 	width: 600px;
